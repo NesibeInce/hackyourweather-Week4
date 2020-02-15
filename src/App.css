@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.graph,
+h3 {
+  width: 80%;
+}
+.graph {
+  margin-left: 10%;
+  border: 1px solid gray;
+}
+.container {
+  padding: 0 10px 10px 10px;
+  margin: auto;
+  width: 380px;
+  text-align: left;
+  border: 1px solid gray;
+  margin-bottom: 10px;
+}
+.cityName,
+.main,
+.details {
+  padding-bottom: 10px;
+  padding-left: 15px;
+  line-height: 5px;
+}
+
+.search {
+  width: 255px;
+  height: 40px;
+  font-size: 15px;
+  border-radius: 12px;
+}
+.button {
+  width: 120px;
+  background-color: gainsboro;
+  font-size: 15px;
+  border-radius: 4px;
+  height: 45px;
+}
+
+.searchButton {
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 400px;
+}
+
+.cross {
+  margin-left: 350px;
+}
